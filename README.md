@@ -57,5 +57,5 @@ Future goal:
 
 * ⚽ I play soccer every week.
 * 🐱 My cat has a health plan.
-* 🖥️ I enjoy customizing my Windows setup, Rainmeter, and personal automations.
+* 🖥️ I enjoy customizing my setup, rainmeter, and personal automations.
 * 🔧 If I can automate it, I probably will.
