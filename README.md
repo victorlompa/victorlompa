@@ -10,8 +10,6 @@ My engineering background has shaped the way I approach software development. Be
 
 Although my professional focus is backend development, I still enjoy exploring embedded systems, artificial intelligence, automation, and any technology that allows software to interact with the physical world.
 
----
-
 ## Things I Enjoy Building
 
 * Backend APIs and cloud-native applications
@@ -21,36 +19,21 @@ Although my professional focus is backend development, I still enjoy exploring e
 * Embedded systems connected to cloud services
 * Software with clean architecture and long-term maintainability
 
----
-
 ## Tech Stack
 
-**Languages**
+**Languages** : Python • JavaScript • SQL • C/C++ • C#
 
-Python • JavaScript • SQL • C/C++ • C#
+**Backend** : AWS Chalice • .NET • Node.js • REST APIs
 
-**Backend**
+**Cloud** : AWS (Lambda, DynamoDB, S3, SQS, CloudWatch, Secrets Manager)
 
-AWS Chalice • .NET • Node.js • REST APIs
+**Databases** : MariaDB • MySQL • DynamoDB
 
-**Cloud**
-
-AWS (Lambda, DynamoDB, S3, SQS, CloudWatch, Secrets Manager)
-
-
-**Databases**
-
-MariaDB • MySQL • DynamoDB
-
-**Tools**
-
-Git • Linux • Azure • Swagger • Postman • Jira
-
----
+**Tools** : Git • Linux • Azure • Swagger • Postman • Jira
 
 ## Featured Project
 
-### 🎙️ Offline Voice Control for a Solar-Powered Boat
+### Offline Voice Control for a Solar-Powered Boat
 
 Bachelor's Degree Final Project
 
@@ -59,8 +42,6 @@ Designed and developed an offline voice-command system running on a Raspberry Pi
 The solution combines an Edge Impulse wake-word model with VOSK speech recognition and communicates with multiple onboard subsystems through a CAN network, enabling real-time control of a solar-powered vessel.
 
 The project combines embedded AI, distributed communication, embedded software, and systems integration into a single architecture.
-
----
 
 ## Currently Learning
 
@@ -72,17 +53,9 @@ Future goal:
 
 * AI Engineering and intelligent software systems
 
----
-
-## ⚡ Fun Facts
+## Fun Facts
 
 * ⚽ I play soccer every week.
 * 🐱 My cat has a health plan.
 * 🖥️ I enjoy customizing my Windows setup, Rainmeter, and personal automations.
 * 🔧 If I can automate it, I probably will.
-
----
-
-Thanks for stopping by!
-
-I'm always working on new projects and continuously improving the ones already here.
